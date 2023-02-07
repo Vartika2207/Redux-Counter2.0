@@ -1,0 +1,5 @@
+
+
+Used redux store data to dispatch actions in Counter.js.
+Changes added in Counter.js
+
