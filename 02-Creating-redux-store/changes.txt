@@ -1,0 +1,4 @@
+
+
+Added redux store in store > index.js
+
