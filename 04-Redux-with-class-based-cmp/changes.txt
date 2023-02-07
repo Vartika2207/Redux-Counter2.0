@@ -1,0 +1,4 @@
+
+
+Added class-based component logic in Counter.js
+
