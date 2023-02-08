@@ -1,0 +1,5 @@
+
+
+Used dispatch() using useDispatched hook in 'react-redux'
+Clicking login button will show UserProfiles.js
+Clicking logout button while login will show login form again.
