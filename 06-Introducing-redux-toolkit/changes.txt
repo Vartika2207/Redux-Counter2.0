@@ -1,0 +1,4 @@
+
+
+Added reduc to handle multiple state, made changes in index.js and Counter.js
+
