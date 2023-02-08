@@ -1,0 +1,3 @@
+
+
+splited store in auth.js and counter.js to keep slice in its own seperate file
