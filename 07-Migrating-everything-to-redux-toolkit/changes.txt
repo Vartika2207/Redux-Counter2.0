@@ -1,0 +1,4 @@
+
+
+Used reduc in index.js and Counter.js.
+
